@@ -1,0 +1,5 @@
+patient_id,patient_name,age,gender,contact_number,address
+1,Amit Sharma,34,Male,9876543210,Delhi
+2,Neha Singh,28,Female,9876501234,Mumbai
+3,Rahul Verma,45,Male,9988776655,Bangalore
+4,Priya Nair,52,Female,9988123456,Chennai

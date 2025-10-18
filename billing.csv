@@ -1,0 +1,5 @@
+bill_id,appointment_id,treatment_cost,medicine_cost,payment_status
+1,1,1200,300,Paid
+2,2,800,200,Pending
+3,3,1500,500,Paid
+4,4,1000,250,Pending

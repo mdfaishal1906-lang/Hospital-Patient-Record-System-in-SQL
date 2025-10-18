@@ -1,0 +1,5 @@
+appointment_id,patient_id,doctor_id,appointment_date,diagnosis
+1,1,1,10-09-2025,Heart Checkup
+2,2,2,12-09-2025,Skin Allergy
+3,3,1,15-09-2025,Blood Pressure
+4,4,3,18-09-2025,Headache
